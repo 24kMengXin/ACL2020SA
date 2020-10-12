@@ -24,6 +24,11 @@ https://www.aclweb.org/anthology/2020.acl-main.338.pdf
 Relation-Aware Collaborative Learningfor Unified Aspect-Based Sentiment Analysis
 https://www.aclweb.org/anthology/2020.acl-main.340.pdf
 
+Dependency Graph Enhanced Dual-transformer Structure forAspect-based Sentiment Classification
+https://www.aclweb.org/anthology/2020.acl-main.588.pdf
+
+
+
 
 ## Multimodal:
 
@@ -38,6 +43,9 @@ https://www.aclweb.org/anthology/2020.acl-main.341.pdf
 
 Sentiment and Emotion help Sarcasm? A Multi-task LearningFramework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis
 https://www.aclweb.org/anthology/2020.acl-main.401.pdf
+
+A Transformer-based joint-encoding for Emotion Recognition andSentiment Analysis
+https://www.aclweb.org/anthology/2020.challengehml-1.1.pdf
 
 
 ## Sentiment Knowledge
