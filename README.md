@@ -72,8 +72,15 @@ https://www.aclweb.org/anthology/2020.ecnlp-1.4.pdf
 
 
 ## Application
+
 e-Commerce and Sentiment Analysis: Predicting Outcomes of Class Action Lawsuits
 https://www.aclweb.org/anthology/2020.ecnlp-1.12.pdf
+
+Corpus based Amharic sentiment lexicon generation
+https://www.aclweb.org/anthology/2020.winlp-1.1/
+
+Negation handling for Amharic sentiment classification
+https://www.aclweb.org/anthology/2020.winlp-1.2/
 
 
 ## Euphemisms and Dysphemisms
