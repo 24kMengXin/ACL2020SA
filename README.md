@@ -27,6 +27,8 @@ https://www.aclweb.org/anthology/2020.acl-main.340.pdf
 Dependency Graph Enhanced Dual-transformer Structure forAspect-based Sentiment Classification
 https://www.aclweb.org/anthology/2020.acl-main.588.pdf
 
+Applying Transformers and Aspect-based Sentiment Analysis approaches on Sarcasm Detection
+https://www.aclweb.org/anthology/2020.figlang-1.9.pdf
 
 
 
@@ -47,6 +49,9 @@ https://www.aclweb.org/anthology/2020.acl-main.401.pdf
 A Transformer-based joint-encoding for Emotion Recognition andSentiment Analysis
 https://www.aclweb.org/anthology/2020.challengehml-1.1.pdf
 
+Multilogue-Net: A Context Aware RNN for Multi-modal Emotion Detection and Sentiment Analysis in Conversation
+https://www.aclweb.org/anthology/2020.challengehml-1.3.pdf
+
 
 ## Sentiment Knowledge
 
@@ -58,6 +63,23 @@ https://www.aclweb.org/anthology/2020.acl-main.374.pdf
 
 Cross-Lingual Unsupervised Sentiment Classification withMulti-View Transfer Learning
 https://www.aclweb.org/anthology/2020.acl-main.510.pdf
+
+
+## Multi-media
+
+A Deep Learning System for Sentiment Analysis of Service Calls
+https://www.aclweb.org/anthology/2020.ecnlp-1.4.pdf
+
+
+## Application
+e-Commerce and Sentiment Analysis: Predicting Outcomes of Class Action Lawsuits
+https://www.aclweb.org/anthology/2020.ecnlp-1.12.pdf
+
+
+## Euphemisms and Dysphemisms
+Recognizing Euphemisms and Dysphemisms Using Sentiment Analysis
+https://www.aclweb.org/anthology/2020.figlang-1.20.pdf
+
 
 
 
