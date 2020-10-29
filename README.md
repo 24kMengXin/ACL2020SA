@@ -59,6 +59,11 @@ SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis
 https://www.aclweb.org/anthology/2020.acl-main.374.pdf
 
 
+## Offensive Language
+
+Joint Modelling of Emotion and Abusive Language Detection
+https://www.aclweb.org/anthology/2020.acl-main.394.pdf
+
 ## Cross-lingual
 
 Cross-Lingual Unsupervised Sentiment Classification withMulti-View Transfer Learning
